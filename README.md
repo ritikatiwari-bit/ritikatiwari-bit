@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Ritika Tiwari  
 
-<!--
-**ritikatiwari-bit/ritikatiwari-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Student Builder | AI & Startup Tech Enthusiast  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on AI-powered apps, RAG Chatbots & Automation Tools 
+- 🌱 I’m currently learning System Design, Scalable AI & Product Development 
+- 👯 I’m looking to collaborate on startup projects, internships & collabs
+- 🤔 I’m looking for help with **building production-ready AI systems**   
+- 📫 How to reach me: ritika.tiwari7612@gmail.com 
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: I turn late-night ideas into working tech 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 *Turning ideas into real, working AI products.*  
+
+i love GenAI and GenAI loves me more
